@@ -1,0 +1,9 @@
+behavior => comportamiento,
+might => podría,
+beyong => mas alla,
+companion => compañero,
+must => deben,
+supply => suministra,
+aardvarks => murcielagos,
+
+
