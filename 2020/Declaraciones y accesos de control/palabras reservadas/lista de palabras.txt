@@ -1,0 +1,52 @@
+int => tipo de dato
+byte => tipo de dato
+short => tipo de dato
+long => tipo de dato
+float => tipo de dato
+double => tipo de dato
+public => acceso
+private => accceso
+protected => acceso
+class => creacion de una clase
+static => clase estatica
+void => indica que un metodo no devuelve nada
+interface => crear una interfaz
+extends => aplicar herencia para extender una clase
+implements => implementar una clase a una interface
+throw => lanzar una exception
+throws => permitir propagación de la exceptión.
+try => controlar una exception
+catch => capturar una exception
+finally => siempre ejecutar este fragmento en una exception
+if 
+else
+for
+while
+do
+break
+switch
+abstract
+const
+final
+boolean
+instanceof
+goto
+continue
+char
+this
+return
+import
+package
+new
+default 
+case
+super
+enum
+stritcfp
+assert
+transient
+volatile
+synchronized
+native
+
+
